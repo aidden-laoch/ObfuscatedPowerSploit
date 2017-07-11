@@ -11,3 +11,7 @@ Encryption is not ment to be end all be all to be completely secure. These are o
 In the future these should be redone with a new passphase for each assessment.
 
 Added script to use out-encryptscript for entire directories so others can replicate what I did easier.
+
+This allows you to run Out-EncryptScript.ps1 against a directory. Creates a file with the same name and appends '.txt' for referencing.
+
+To use you need to properly setup Powersploit's ScriptModification module in the correct module location. Then the script above will be able to import the needed module and leverage it against a directory containing your scripts.
