@@ -1,3 +1,5 @@
+## To Be Clear this is just a script that allows you to use Out-EncryptScript.ps1 from PowerSploit on entire directories of PS1 files. All real work was done by the PowerShellMafia!!! To get PowerSploit please check out there repo here: https://github.com/PowerShellMafia/PowerSploit
+
 # ObfuscatedPowerSploit
 scripts encrypted with out-encryptscript.ps1 and personal passphrase
 
